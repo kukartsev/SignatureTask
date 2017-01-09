@@ -13,6 +13,7 @@ namespace Signature
         private byte[] buffer;
         private int bufferLength;
         private int number;
+
         /// <summary>
         /// Экземпляр класса содержит в себе рабочий поток, работающий до завершения всех рассчетов.
         /// </summary>
